@@ -1,2 +1,0 @@
-# minesense
-Infografia MineSense
